@@ -2,3 +2,14 @@
   margin: 50px 50px 50px 50px;
   width: auto;
 }
+
+tr:hover {
+  background-color: #D3D3D3;
+}
+
+.processing {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  margin: 50px 50px 500px 500px; !important
+}
