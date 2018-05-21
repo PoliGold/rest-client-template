@@ -13,7 +13,7 @@ $(document).ready(function() {
     params: {
       queryRecordCount: 'totalElements',
       records: 'elements',
-      perPage: 'pageSize'
+      perPage: 'size'
     }
   });
 });
