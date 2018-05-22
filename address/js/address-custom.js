@@ -9,7 +9,9 @@ $(document).ready(function() {
     },
     features: {
       paginate: true,
-      search: true
+      search: true,
+      sort: true,
+      multisort: true
     },
     params: {
       queryRecordCount: 'totalElements',
