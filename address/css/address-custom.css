@@ -8,8 +8,10 @@ tr:hover {
 }
 
 .processing {
-  position: absolute;
+  position: fixed;
   height: 50px;
   width: 50px;
-  margin: 200px 50px 600px 600px; !important
+  top: 50%;
+  left: 50%;
+  /* margin: 200px 50px 600px 600px; !important */
 }
